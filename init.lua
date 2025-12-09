@@ -214,6 +214,3 @@ vim.lsp.config.clangd = {
 
 -- 啟用 clangd LSP
 vim.lsp.enable({ "clangd" })
-
-
-vim.lsp.enable({ "clangd" })
