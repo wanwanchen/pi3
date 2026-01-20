@@ -1,0 +1,6 @@
+{
+  "board": "at24",
+  "serial": "SN12345678",
+  "mac": "sandy",
+  "version": 1
+}

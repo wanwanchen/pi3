@@ -1,0 +1,6 @@
+{
+  "board": "RPI-TEST",
+  "serial": "SN12345678",
+  "mac": "00:11:22:33:44:55",
+  "version": 1
+}
